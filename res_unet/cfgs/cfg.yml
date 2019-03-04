@@ -1,0 +1,11 @@
+SEED: 42
+Raw_channels: 1
+image_rows: 400
+image_cols: 400
+image_channels: 1
+k: 16
+num_classes: 1
+threshold: 0.5
+ratio: 0.8
+mean: 75.
+std: 70.
